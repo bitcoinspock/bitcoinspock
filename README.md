@@ -2,7 +2,7 @@
 - 👀 I’m interested in updating my html/css skills and learning javascript and maybe more.
 - 🌱 I’m currently learning javascript.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me on Twitter or Discord.
 
 <!---
 bitcoinspock/bitcoinspock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
